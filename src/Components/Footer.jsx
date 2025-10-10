@@ -21,7 +21,7 @@ function Footer() {
 
                 <div className="flex flex-col leading-relaxed">
                     <h1 className="text-2xl font-semibold mb-3">Recent Project</h1>
-                    <div className="bg-blue-950 h-32 w-40 mx-auto sm:mx-0 "></div>
+                    <div className="bg-blue-950 h-32 w-40 mx-auto sm:mx-0   "></div>
                 </div>
                 <div className="flex flex-col gap-4">
                     <h1 className="text-2xl font-semibold mb-3">Subscribe Us</h1>
