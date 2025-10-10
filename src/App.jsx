@@ -1,5 +1,5 @@
 import './App.css';
-// import Form from './Components/Form.jsx';
+
 import Navbar from './Components/Navbar.jsx';
 import Home from './Components/Home.jsx';
 import About from './Components/About.jsx';
@@ -12,7 +12,7 @@ import Footer from './Components/Footer.jsx';
 function App() {
   return (
     <>
-      {/* <Form /> */}
+    
       <Navbar />
       <Home />
       <About />
