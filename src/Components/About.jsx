@@ -51,7 +51,7 @@ function AboutSection() {
 
                     <div className="grid grid-cols-1 gap-6 md:grid-cols-3 md:gap-8">
 
-                        {features.map((feature, index) => (  
+                        {features.map((feature, index) => (
                             <div key={index} className="bg-gray-900 text-white p-6 md:p-8 rounded-xl shadow-lg border-2 border-transparent hover:border-blue-500 transition duration-300 ease-in-out" >
                                 <div className="flex items-center space-x-4">
                                     <div className="relative text-5xl font-extrabold text-white leading-none pr-4">
@@ -59,7 +59,7 @@ function AboutSection() {
                                         <span className="absolute right-0 top-1/2 transform -translate-y-1/2 h-full w-px border-r-2 border-dashed border-white opacity-30"
                                             style={{ height: '80%' }}
                                         ></span>
-                                    </div> 
+                                    </div>
                                     <div className="flex flex-col text-left uppercase text-sm font-semibold tracking-wider pl-4">
                                         <span className="mb-0.5">{feature.title}</span>
                                         <span className="text-lg font-extrabold leading-none">{feature.subtitle}</span>
