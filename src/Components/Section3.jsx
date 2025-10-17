@@ -4,7 +4,7 @@ function Section() {
             <div className="flex flex-col lg:flex-row gap-12 lg:gap-16 items-center">
 
                 <div>
-                    <img src="src/assets/images/img5.png" alt="" className="animate-pulse"/>
+                    <img src="src/assets/images/img5.png" alt="" className="animate-pulse" />
                 </div>
 
                 <div className="w-full lg:w-1/2">
