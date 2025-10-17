@@ -30,9 +30,9 @@ function HeroSection() {
                         <p className="text-5xl sm:text-6xl md:text-7xl font-bold">12+</p>
                         <p className="text-sm sm:text-base font-light"> 
                             Years of Experience 
-                        </p>
+                        </p> 
                     </div>
-                </div> 
+                </div>
             </div> 
         </div>
     );
