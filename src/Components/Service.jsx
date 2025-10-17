@@ -7,7 +7,7 @@ function ServicesSection() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
 
                 {/* Section Header */}
-                <p className="text-sm font-semibold tracking-widest uppercase text-blue-700 mb-2">
+                <p className="text-lg font-semibold tracking-widest uppercase text-blue-700 mb-2">
                     OUR SERVICES
                 </p>
                 <h2 className="text-3xl md:text-5xl font-extrabold text-gray-900 leading-snug mb-12">
